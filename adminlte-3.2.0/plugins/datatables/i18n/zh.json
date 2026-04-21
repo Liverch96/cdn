@@ -1,11 +1,9 @@
 {
-  "aria": {
-    "paginate": {
-      "first": "首页",
-      "last": "末页",
-      "next": "下页",
-      "previous": "上页"
-    }
+  "paginate": {
+    "first": "首页",
+    "last": "末页",
+    "next": "»",
+    "previous": "«"
   },
   "autoFill": {
     "cancel": "取消",
@@ -108,7 +106,7 @@
       "title": "删除"
     }
   },
-  "emptyTable": "表中没有数据",
+  "emptyTable": "<img class=\"img img-md float-none\" src=\"/xinhao/imgs/NoData.png\" alt=\"no data\"><p class=\"lead\">暂无数据</p>",
   "info": "正在显示第 _START_ 至 _END_ 条记录，共 _TOTAL_ 条",
   "infoEmpty": "正在显示第 0 至 0 条记录，共 0 条",
   "infoFiltered": "(筛选自全部 _MAX_ 条记录)",
